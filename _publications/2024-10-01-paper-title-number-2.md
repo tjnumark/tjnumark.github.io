@@ -2,7 +2,7 @@
 title: "[2] An improved graph convolutional neural network for EEG emotion recognition"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-10-01-paper-title-number-1
+permalink: /publication/2024-10-01-paper-title-number-2
 excerpt: 'This paper is about EEG emotion recognition by an improved graph convolutional neural network.'
 date: 2024-10-01
 venue: ' Neural Computing and Applications'
