@@ -13,4 +13,4 @@ My current research interests include machine learning, deep learning, and brain
 
 For more info
 ------
-More info about Tianjin Normal University can be found in [TJNU](https://www.tjnu.edu.cn/), the College of Artificial Intelligence [College](https://dzytx.tjnu.edu.cn/index.htm).
+More info about Tianjin Normal University can be found in [TJNU](https://www.tjnu.edu.cn/), the [College of Artificial Intelligence](https://dzytx.tjnu.edu.cn/index.htm).
