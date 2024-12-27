@@ -1,0 +1,14 @@
+---
+title: "[2] A model for electroencephalogram emotion recognition Residual block-gated recurrent unit with attention mechanism"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-08-21-paper-title-number-2
+excerpt: 'This paper is about EEG emotion recognition by a Res-CRANN method.'
+date: 2024-08-21
+venue: 'Review of Scientific Instruments'
+#slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+paperurl: 'https://doi.org/10.1063/5.0221637'
+citation: 'Yujie Wang, Xiu Zhang, Xin Zhang, Baiwei Sun, Bingyue Xu; A model for electroencephalogram emotion recognition: Residual block-gated recurrent unit with attention mechanism. Rev. Sci. Instrum. 1 August 2024; 95 (8): 085110. https://doi.org/10.1063/5.0221637.'
+---
+
+Electroencephalogram (EEG) signals, serving as a tool to objectively reflect real emotional states, hold a crucial position in emotion recognition research. In recent years, deep learning approaches have been widely applied in emotion recognition research, and the results have demonstrated their effectiveness in this field. Nevertheless, the challenge remains in selecting effective features, ensuring their retention as the network depth increases, and preventing the loss of crucial information. In order to address the issues, a novel emotion recognition method is proposed, which is named Res-CRANN. In the proposed method, the raw EEG signals are transformed into four dimensional spatial-frequency-temporal information, which can provide a more enriched and complex feature representation. First, the residual block is incorporated into the convolutional layers to extract spatial and frequency domain information. Subsequently, gated recurrent unit (GRU) is employed to capture temporal information from the convolutional neural network outputs. Following GRU, attention mechanisms are applied to enhance awareness of key information and diminish interference from irrelevant details. By reducing attention to irrelevant or noisy temporal steps, it ultimately improves the accuracy and robustness of the classification process. The Res-CRANN method exhibits excellent performance on the DEAP dataset, with an accuracy of 96.63% for valence and 96.87% for arousal, confirming its effectiveness.
