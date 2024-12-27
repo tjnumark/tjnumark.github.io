@@ -1,11 +1,11 @@
 ---
-title: "[1]"
+title: "[1] Emotion Recognition of EEG Signals Based on Channel Attention Convolution Neural Network"
 collection: publications
 category: conferences
 permalink: /publication/2023-05-02-paper-title-number-1
 excerpt: 'This paper is about EEG emotion recognition by channel attention CNN.'
 date: 2023-05-02
-#venue: 'Conference 1'
+venue: 'CSPS 2022'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-981-99-2362-5_12'
 citation: 'Zhang, X., Pei, X., Zhang, X. (2023). Emotion Recognition of EEG Signals Based on Channel Attention Convolution Neural Network. In: Liang, Q., Wang, W., Liu, X., Na, Z., Zhang, B. (eds) Communications, Signal Processing, and Systems. CSPS 2022. Lecture Notes in Electrical Engineering, vol 874. Springer, Singapore. https://doi.org/10.1007/978-981-99-2362-5_12'
