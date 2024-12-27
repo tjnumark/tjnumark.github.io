@@ -2,7 +2,7 @@
 title: "[1] Emotion Recognition of EEG Signals Based on Channel Attention Convolution Neural Network"
 collection: publications
 category: conferences
-permalink: /publication/2023-05-02-paper-title-number-1
+permalink: /publication/2023-05-02-conference-1
 excerpt: 'This paper is about EEG emotion recognition by channel attention CNN.'
 date: 2023-05-02
 venue: 'CSPS 2022'
