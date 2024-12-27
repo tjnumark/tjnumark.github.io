@@ -1,0 +1,14 @@
+---
+title: "[1] Multistage Evolutionary Generative Adversarial Network for Image Generation"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-08-05-paper-title-number-1
+excerpt: 'This paper is about image generation by a multistage evolutionary GAN method.'
+date: 2024-08-05
+venue: ' IEEE Transactions on Consumer Electronics'
+#slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+paperurl: 'https://ieeexplore.ieee.org/document/10623397'
+citation: 'X. Zhang, B. Sun and X. Zhang, "Multistage Evolutionary Generative Adversarial Network for Image Generation," in IEEE Transactions on Consumer Electronics, vol. 70, no. 3, pp. 5483-5492, Aug. 2024, doi: 10.1109/TCE.2024.3438683.'
+---
+
+Consumer electronic devices are popular in human’s everyday use, and cover a wide range of devices and services. Consumer electronics like smartphone and tablet use digital technologies to enhance human’s entertainment and health. The creation of digital content or data augmentation sometimes requires using generative artificial intelligence technologies. Although data generation systems have been successfully used in some consumer products, it is still challenging to create a powerful generative system due to the complexity of input signals and the difficulty of model training. In this paper, a multistage evolutionary generative adversarial network (GAN) framework is proposed to alleviate the above challenges. The multistage evolutionary GAN is a general framework and can be instantiated to existing evolutionary GAN and its variants. Moreover, this paper designs a two-stage and a three-stage evolutionary GAN methods. The two models show that different variation operators and evaluation methods can be used in different stages. Experiments are conducted on both synthetic and real-world datasets. The results show that the proposed methods are effective in capturing complex input signals and alleviating the model training problem. The proposed methods can greatly facilitate the application of image generation systems in consumer products.
